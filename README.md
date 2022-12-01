@@ -5,7 +5,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel. 
+I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Niv_Shtibel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niv-shtibel/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivsv&label=Profile%20views&color=0e75b6&style=flat" alt="nivsv" /> </p>
