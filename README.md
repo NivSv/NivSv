@@ -28,8 +28,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NivSv&theme=dark&hide_border=true&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NivSv&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivSv&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivSv&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivSv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivSv&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
