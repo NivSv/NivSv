@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @NivSv
-- 👀 I’m interested in web development (
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<!---
-NivSv/NivSv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ---
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel. 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Niv_Shtibel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niv-shtibel/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -26,3 +24,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NivSv&theme=dark&hide_border=true&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivSv&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivSv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
