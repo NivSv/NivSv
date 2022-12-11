@@ -21,3 +21,5 @@ I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivSv&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivSv&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Leetcode](https://leetcode.card.workers.dev/NivSv?theme=dark&font=source_code_pro&extension=null)
