@@ -104,7 +104,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nivsv/nivsv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nivsv/nivsv/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
