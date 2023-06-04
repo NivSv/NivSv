@@ -14,8 +14,8 @@
 <br clear="both">
 
 <h2 align="left">Technical Skills</h2>
-<p align="left">Languages: JavaScript, HTML5, CSS, C#</p>
-<p align="left">Frameworks & Technologies: Node.js, NestJS, .Net, React.js, TypeScript, Redux, GraphQL, Next.js, ORM, Docker, Git, Redis, Kafka, Monorepo (Turboreo, Nx), Jenkins, GitHub Actions, ESLint, Jest, JWT, OAuth2, Tailwind CSS</p>
+<p align="left">Languages: JavaScript, HTML5, CSS</p>
+<p align="left">Frameworks & Technologies: Node.js, NestJS, React.js, TypeScript, Redux, GraphQL, Next.js, ORM, Docker, Git, Redis, Kafka, Monorepo (Turboreo, Nx), Jenkins, GitHub Actions, ESLint, Jest, JWT, OAuth2, Tailwind CSS</p>
 <p align="left">Databases: SQL (MySQL, RDS, PostgreSQL), NoSQL (MongoDB, DynamoDB, Elasticsearch)</p>
 <p align="left">Cloud: AWS, EC2, S3</p>
 <h4 align="left">Performance Optimization: I have a knack for optimizing application performance. I leverage techniques like caching, load balancing, and code profiling to achieve the best possible speed and efficiency.</h4>
