@@ -26,6 +26,10 @@
 
 <p align="left">As an experienced World of Warcraft player, I have achieved significant milestones in my gaming journey. I have consistently excelled as a top Mythic+ player for multiple seasons, showcasing my dedication to mastering the game's challenges. Additionally, my participation in competitive events, including The Great Push Tournament, has further sharpened my skills as a quick decision-maker and a valuable team player. Drawing from my extensive experience in WoW, I bring a strategic mindset, effective communication, and a relentless drive for improvement to my role as a Full Stack Developer. Let's collaborate and leverage this unique combination of gaming expertise and development skills for outstanding outcomes.</p>
 
+https://eu.forums.blizzard.com/en/wow/t/waiting-10-mins-for-wow-to-launch-solved-problem/529642/8
+
+I resolved a popular bug in World of Warcraft, where the game would take 10 minutes to launch
+
 ###
 
 <br clear="both">
