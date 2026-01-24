@@ -14,10 +14,12 @@
 <br clear="both">
 
 <h2 align="left">Technical Skills</h2>
-<p align="left">Languages: JavaScript, HTML5, CSS</p>
-<p align="left">Frameworks & Technologies: Node.js, NestJS, React.js, TypeScript, Redux, GraphQL, Next.js, ORM, Docker, Git, Redis, Kafka, Monorepo (Turboreo, Nx), Jenkins, GitHub Actions, ESLint, Jest, JWT, OAuth2, Tailwind CSS</p>
-<p align="left">Databases: SQL (MySQL, RDS, PostgreSQL), NoSQL (MongoDB, DynamoDB, Elasticsearch)</p>
-<p align="left">Cloud: AWS, EC2, S3</p>
+<p align="left">Languages: Node.js (Expert), TypeScript, Vanilla Javascript, Go, Rust, Python, C++ (Manual Memory Management/Pointers).</p>
+<p align="left">Frameworks & Architecture: NestJS, Pub/Sub (Kafka/RabbitMQ), Redis, ORM(Prisma), GraphQL, gRPC,</p>
+<p align="left">Monorepo (Turborepo, Nx), ESLint</p>
+<p align="left">DevOps & Cloud: GCP, AWS, Kubernetes(K8s), Helm, Terraform, Docker, GitHub Actions, Jenkins, Cloudflare, Proxmox</p>
+<p align="left">Databases: SQL (MySQL, SQL Server), NoSQL (MongoDB, Elasticsearch)</p>
+<p align="left">Security & Identity: WireShark, Burp Suite, Kali Linux, NMap, SSL/TLS, Sysinternals, VPN(WireGuard/OpenVpn), SAML 2.0 (SP/IdP-Init), OAuth2, OIDC, JWT, WAF</p>
 <h4 align="left">Performance Optimization: I have a knack for optimizing application performance. I leverage techniques like caching, load balancing, and code profiling to achieve the best possible speed and efficiency.</h4>
 
 ###
